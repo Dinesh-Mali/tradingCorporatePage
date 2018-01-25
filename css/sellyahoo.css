@@ -1,0 +1,37 @@
+body{
+    margin: 20px;
+}
+.nav-justified{
+    background-color: #eee;
+/*    border: 1px solid #000;*/
+    border-radius: 5px;
+}
+.nav-justified > li > a{
+    padding: 10px 0;
+    background-color: #e5e5e5;
+    color: #777;
+    text-align: center;
+}
+.jumbotron{
+    text-align: center;
+    background-color: transparent;
+}
+.jumbotron .btn{
+    padding: 15px 25px;
+    font-size: 25px;
+}
+.content{
+    text-align: center;
+    padding-top: 0;
+}
+.title{
+    font-family: 'Merriweather', serif;
+}
+.selling{
+    font-family: 'Arvo', serif;
+}
+footer{
+    text-align: center;
+    background-color: ghostwhite;
+    padding: 5px;
+}
